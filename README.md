@@ -1,2 +1,3 @@
 # alx_be_shell
-betty
+
+hello world
