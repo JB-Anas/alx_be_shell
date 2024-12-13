@@ -1,3 +1,3 @@
 # alx_be_shell
 
-hello world
+This repository contains shell scripts related to various tasks and permissions in a Unix-like environment.
